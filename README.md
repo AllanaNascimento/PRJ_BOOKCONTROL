@@ -17,4 +17,4 @@ This repo was created to pursuit some better practices and applying some pattern
 
 ##Meet the developers:
 
-  - @pedpess
+  @pedpess
