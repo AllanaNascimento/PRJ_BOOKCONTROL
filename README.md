@@ -8,6 +8,6 @@ This repo was created to pursuit some better practices and applying some pattern
   - MDB
   - Servlets
   - WebServices
-  - UX
+  - UX (Bootstrap / PrimeFaces)
   - Spring
   - API Integration
